@@ -1,7 +1,7 @@
 <?php
 
-class ModDwformHelper
+class ModDwAjaxContactHelper
 {
-    
+
 }
 ?>

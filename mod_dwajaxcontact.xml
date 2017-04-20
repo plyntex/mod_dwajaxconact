@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="module" method="upgrade" client="site">
 	<name>MOD_DW_AJAX_CONTACT</name>
-	<creationDate>Apr 2017</creationDate>
 	<author>Arek Szczerba</author>
 	<authorEmail>arek@articode.pl</authorEmail>
 	<authorUrl>http://www.articode.pl</authorUrl>
